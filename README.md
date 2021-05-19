@@ -10,7 +10,7 @@ Notebook: https://github.com/aneetxeandia/MSc-Data-Analytics-Projects/blob/70724
 
 Notebook: https://github.com/aneetxeandia/MSc-Data-Analytics-Projects/blob/70724e41d86a5a6c5743bf87ad53e88cceaba175/Classification.ipynb
 
-### Prediction of popularity/genre of spotify songs
+### Prediction of popularity/genre of Spotify songs
 This is a project of the Fundamentals of Machine Learning subject. The data analysed comes from Spotify and captures various attributes about songs. The project adresses two problems:
 
 - A regression problem which aims to predict the populariity score of a song.
