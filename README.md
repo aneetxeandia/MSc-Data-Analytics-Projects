@@ -1,8 +1,7 @@
 # MSc-Data-Analytics-Projects
 
 ### Prediction of popularity/genre of spotify songs
-This is a project of the Fundamentals of Machine Learning subject. The data analysed comes from Spotify and captures various attributes about songs and includes a popularity score. 
-The project adresses two problems:
+This is a project of the Fundamentals of Machine Learning subject. The data analysed comes from Spotify and captures various attributes about songs. The project adresses two problems:
 
 -A regression problem which aims to predict the populariity score of a song.
 
