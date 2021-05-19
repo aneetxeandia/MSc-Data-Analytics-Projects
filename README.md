@@ -10,8 +10,6 @@ Notebook: https://github.com/aneetxeandia/MSc-Data-Analytics-Projects/blob/70724
 
 Notebook: https://github.com/aneetxeandia/MSc-Data-Analytics-Projects/blob/70724e41d86a5a6c5743bf87ad53e88cceaba175/Classification.ipynb
 
-The notebook can be found here:
-
 ### Prediction of popularity/genre of spotify songs
 This is a project of the Fundamentals of Machine Learning subject. The data analysed comes from Spotify and captures various attributes about songs. The project adresses two problems:
 
