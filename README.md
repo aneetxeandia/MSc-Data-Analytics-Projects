@@ -6,7 +6,7 @@ This is a project of Advanced Machine Learning subject. The data analysed comes 
 - A binary classification problem where you need to predict whether the interaction with a document lead to it being considered relevant or not relevant. Random Forest and Deep Neural Networks were attempted to solve this problem.
 Notebook: https://github.com/aneetxeandia/MSc-Data-Analytics-Projects/blob/70724e41d86a5a6c5743bf87ad53e88cceaba175/Relevance.ipynb
 - A multi classification problem where you need to predict from the text of the document what industry the document is related to. Logistic Regression, Deep Neural Networks, LSTM, GRU and BERT were attempted to solve this problem.
-- Notebook: https://github.com/aneetxeandia/MSc-Data-Analytics-Projects/blob/70724e41d86a5a6c5743bf87ad53e88cceaba175/Classification.ipynb
+Notebook: https://github.com/aneetxeandia/MSc-Data-Analytics-Projects/blob/70724e41d86a5a6c5743bf87ad53e88cceaba175/Classification.ipynb
 
 The notebook can be found here:
 
