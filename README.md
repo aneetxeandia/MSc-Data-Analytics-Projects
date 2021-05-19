@@ -3,7 +3,7 @@
 ### Prediction of documents' relevance and their classification
 This is a project of Advanced Machine Learning subject. The data analysed comes from the company BIP Solutions Ltd. One issue they have is maintaining data quality and normalising all the incoming documents so that they share the same meta data. Another issue they have is trying to predict which tenders/documents are relevant to their user. The project addresses two problems:
 
-- A binary classification problem where you need to predict whether the interaction with a document lead to it being considered relevant or not relevant. Notebook: Relevance.ipynb
+- A binary classification problem where you need to predict whether the interaction with a document lead to it being considered relevant or not relevant. Notebook: https://github.com/aneetxeandia/MSc-Data-Analytics-Projects/blob/70724e41d86a5a6c5743bf87ad53e88cceaba175/Relevance.ipynb
 - A multi classification problem where you need to predict from the text of the document what industry the document is related to. Notebook: https://github.com/aneetxeandia/MSc-Data-Analytics-Projects/blob/70724e41d86a5a6c5743bf87ad53e88cceaba175/Classification.ipynb
 
 The notebook can be found here:
