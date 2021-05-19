@@ -8,4 +8,4 @@ The project adresses two problems:
 
 -A classification problem which aims to predict the top genre that a song belongs to
 
-The notebook can be found here:
+The notebook can be found here: https://github.com/aneetxeandia/MSc-Data-Analytics-Projects/blob/d3b475b6a620ce1115d9a4f6b0a3f7c94e2a04ad/Spotify%20project.ipynb
